@@ -48,7 +48,7 @@ const ProjectsPage = () => {
 
   return (
     <Fragment>
-      <h1>Project</h1>
+      <h1>Foods</h1>
       {error && (
         <div className="row">
           <div className="card large error">
