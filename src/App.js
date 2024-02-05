@@ -16,7 +16,7 @@ function App() {
           Home
         </NavLink>
         <NavLink to="/projects" className="button rounded">
-          Projects
+          Menu
         </NavLink>
       </header>
       <div className="container">
